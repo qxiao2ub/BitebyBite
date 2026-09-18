@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">بايت باي بايت</string>
+    <string name="brand_name">بايت باي بايت</string>
+    <string name="subtitle">متتبع وجبات الأطفال</string>
+    <string name="sign_in_header">تسجيل الدخول</string>
+    <string name="email_label">البريد الإلكتروني</string>
+    <string name="email_placeholder">أدخل بريدك الإلكتروني</string>
+    <string name="password_label">كلمة المرور</string>
+    <string name="password_placeholder">........</string>
+    <string name="hide_password_desc">إخفاء كلمة المرور</string>
+    <string name="show_password_desc">إظهار كلمة المرور</string>
+    <string name="sign_in_button">تسجيل الدخول</string>
+    <string name="footer_new_user">جديد في بايت باي بايت؟ </string>
+    <string name="footer_create_account">إنشاء حساب</string>
+
+    <!-- Sign Up Screen -->
+    <string name="back_to_sign_in">العودة إلى تسجيل الدخول</string>
+    <string name="sign_up_header">إنشاء حسابك</string>
+    <string name="first_name_label">الاسم الأول</string>
+    <string name="first_name_placeholder">الاسم الأول</string>
+    <string name="last_name_label">اسم العائلة</string>
+    <string name="last_name_placeholder">اسم العائلة</string>
+    <string name="password_signup_placeholder">أنشئ كلمة مرور</string>
+    <string name="confirm_password_label">تأكيد كلمة المرور</string>
+    <string name="confirm_password_placeholder">أعد إدخال كلمة المرور</string>
+    <string name="continue_button">متابعة</string>
+    <string name="author_name">المؤلفة: Sidra Almoghrabi</string>
+</resources>

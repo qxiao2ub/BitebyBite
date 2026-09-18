@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+
+# Streamlit secrets and local state
+.streamlit/secrets.toml
+
+# Gradle and Android build outputs
+.gradle/
+build/
+**/build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+output.json
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Kotlin
+.kotlin/
+
+# Signing and service credentials
+*.jks
+*.keystore
+google-services.json
+
+# Logs, OS, and editor files
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Android profiling
+*.hprof

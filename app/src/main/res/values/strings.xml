@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Bite By Bite</string>
+    <string name="brand_name">Bite by Bite</string>
+    <string name="subtitle">PEDIATRIC MEAL TRACKER</string>
+    <string name="sign_in_header">Sign In</string>
+    <string name="email_label">EMAIL</string>
+    <string name="email_placeholder">Enter your email</string>
+    <string name="password_label">PASSWORD</string>
+    <string name="password_placeholder">........</string>
+    <string name="hide_password_desc">Hide password</string>
+    <string name="show_password_desc">Show password</string>
+    <string name="sign_in_button">Sign in</string>
+    <string name="footer_new_user">New to Bite by Bite? </string>
+    <string name="footer_create_account">Create account</string>
+
+    <!-- Sign Up Screen -->
+    <string name="back_to_sign_in">Back to sign in</string>
+    <string name="sign_up_header">Create Your Account</string>
+    <string name="first_name_label">FIRST NAME</string>
+    <string name="first_name_placeholder">First name</string>
+    <string name="last_name_label">LAST NAME</string>
+    <string name="last_name_placeholder">Last name</string>
+    <string name="password_signup_placeholder">Create a password</string>
+    <string name="confirm_password_label">CONFIRM PASSWORD</string>
+    <string name="confirm_password_placeholder">Re-enter your password</string>
+    <string name="continue_button">Continue</string>
+    <string name="author_name">Author: Sidra Almoghrabi</string>
+</resources>
